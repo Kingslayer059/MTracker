@@ -1,0 +1,16 @@
+# node js stuff
+web/node_modules/
+web/package-lock.json
+web/package.json
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
